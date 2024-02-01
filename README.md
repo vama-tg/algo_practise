@@ -1,1 +1,1 @@
-# algo_practise
+# Algorithm Practise for GSQL Queries
